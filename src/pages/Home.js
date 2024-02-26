@@ -22,6 +22,7 @@ class Home extends Component {
         >
           Read the docs &rarr;
         </a>
+        
         </div>
       )
     }
