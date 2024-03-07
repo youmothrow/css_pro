@@ -100,7 +100,7 @@ class Flextest extends Component {
 						<li className="bg-pink-500 rounded-lg shadow-xl flex items-center justify-center ">
 						<div className="h-14 w-14 relative">
 						  <div className="absolute inset-0 bg-white opacity-25 rounded-lg shadow-2xl"></div>
-						  <div className="transform origin-bottom-left origin-center hover:-rotate-45  transition duration-300 ">
+						  <div className="transform origin-bottom-left hover:-rotate-45  transition duration-300 ">
 						    <div className="h-14 w-14 bg-white rounded-lg shadow-2xl flex items-center justify-center text-center">4</div>
 						  </div>
 						</div></li>
