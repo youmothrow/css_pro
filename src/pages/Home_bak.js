@@ -56,6 +56,12 @@ class Home extends Component {
           2</div>
           <div class="text-gray-700 text-center bg-gray-400 px-4 py-2 m-2">3</div>
         </div>
+        <div class="bg-video">
+          <video autoplay loop muted class="w-full h-full object-cover">
+            <source src="phttps://openaicomproductionae4b.blob.core.windows.net/production-twill-01/c74791d0-75d2-48e6-acae-96d13bc97c56/paper-planes.mp4" type="video/mp4">
+          </video>
+        </div>
+       
         </div>
       )
     }
