@@ -3,7 +3,7 @@ import store from './store';
 import { Provider } from 'react-redux';
 
 //import Home from './pages/Home';
-import Flextest from './pages/Flextest';
+//import Flextest from './pages/Flextest';
 import Constview from './pages/Constview';
 
 class App extends Component {
